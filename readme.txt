@@ -2,7 +2,7 @@ ZOO
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Run using dotnet 7.0 in Visual Studio Code with the C# extenstion installed, utilises the ConsoleTable library.
+Run using dotnet 7.0 in Visual Studio Code with the C# extenstion installed, utilises the ConsoleTable library (dotnet add package ConsoleTables --version 2.4.2).
 
 Includes 2 files, program.cs, which is the main part, and animal.cs, which includes the class definitions used in the program.
 
